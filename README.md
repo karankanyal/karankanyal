@@ -1,11 +1,9 @@
 # 💫 About Me:
 
-<h3 align="sta">
- Seasoned Frontend Developer with in-depth knowledge and hands-on experience in web development
+***Seasoned Frontend Developer with in-depth knowledge and hands-on experience in web development
 technologies. Excellent analytical and problem-solving skills, with experience in integrating data from various back-end
 services and databases.. Proficient in HTML, CSS, JavaScript, and React, with a track record of building responsive and
-interactive web applications. Love to work in a team.
-</h3>
+interactive web applications. Love to work in a team.***
 
 🔭 **I’m currently pursuing:** <br>FRONT-END DEVELOPER<br><br>🌱 **I’m currently learning:** <br>CI/CD PIPELINES.<br><br>💬 **Ask me about:** <br>JavaScript, React.<br><br>📫 **How to reach me:** karankanyal23@gmail.com <br>
 
